@@ -1,0 +1,417 @@
+2019-12-01
+According to a retrospective study published in The Lancet on 24 January 2020[1], the earliest laboratory confirmed case of COVID-19 in Wuhan was in a man whose symptoms began on 1 December 2019. No epidemiological link could be found with other early cases. None of his family became ill.
+--------------------------------
+2019-12-12
+In Wuhan, health officials start investigating a cluster of patients with viral pneumonia. They eventually find that most patients have visits to the Huanan Seafood Wholesale Market in common. The market is known for being a sales hub for poultry, bats, snakes, and other wildlife.
+--------------------------------
+2019-12-30
+Li Wenliang (en.wikipedia.org/wiki/Li_Wenliang), a 34-year-old ophthalmologist from Wuhan, posts a message on a WeChat group alerting fellow doctors to a new disease at his hospital in late December. He writes that seven patients have symptoms similar to SARS and are in quarantine. Li askes his friends to inform their families and advises his colleagues to wear protective equipment.
+--------------------------------
+2019-12-31
+The Wuhan police announce that they are investigating eight people for spreading rumors about a new infectious diseases outbreak (see 30 December).
+The Wuhan Municipal Health Commission reports 27 patients with viral pneumonia and a history of exposure to the Huanan Seafood Wholesale Market. Seven patients are critically ill. The clinical manifestations of the cases were mainly fever, a few patients had difficulty breathing, and chest radiographs showed bilateral lung infiltrative lesions. The report says that the “disease is preventable and controllable”. WHO is informed about the outbreak.
+--------------------------------
+2020-01-01
+The Huanan Seafood Wholesale Market is shut down.
+--------------------------------
+2020-01-03
+While examining bronchoalveolar lavage fluid collected from hospital patients between 24 and 29 December, Chinese scientists at the National Institute of Viral Disease Control and Prevention ruled out the infection with 26 common respiratory viruses,   determined the genetic sequence of a novel β-genus coronaviruses (naming it ‘2019-nCoV’) and identified three distinct strains.[2]
+Li Wenliang is summoned to a local public security office in Wuhan for “spreading false rumours”. He is forced to sign a document where he admits having made “false comments” and “disrupted social order.” Li signs a statement agreeing not to discuss the disease further.
+On the Weibo social network, Wuhan police say they have taken legal action against people who “published and shared rumors online”, “causing a negative impact on society”. The following day, the information is taken up by CCTV, the state television. CCTV does not specify that the eight people accused of “spreading false rumors” are doctors.
+--------------------------------
+2019-01-05
+WHO issues an alert that 44 patients with pneumonia of unknown etiology have been reported by the national authorities in China. Of the 44 cases reported, 11 are severely ill while the remaining 33 patients are in stable condition. https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/
+--------------------------------
+2020-01-07
+Chinese officials announce that they have identified a new coronavirus (CoV) from patients in Wuhan (pre-published 17 days later: https://doi.org/10.1056/NEJMoa2001017). Coronaviruses are a group of viruses that cause diseases in mammals and birds. In humans, the most common coronaviruses (HCoV-229E, -NL63, -OC43, and -HKU1) continuously circulate in the human population; they cause colds, sometimes associated with fever and sore throat, primarily in the winter and early spring seasons. Two coronavirus have also been responsible for human outbreaks of SARS and MERS. These viruses are spread by inhaling droplets generated when infected people cough or sneeze, or by touching a surface where these droplets land and then touching one’s face.
+--------------------------------
+2020-01-10
+The gene sequencing data of the new virus was posted on Virological.org by researchers from Fudan University, Shanghai. A further three sequences were posted to the Global Initiative on Sharing All Influenza Data (GISAID) portal.
+On 10 January 2020, Li Wenliang, coronavirus whistleblower, started having symptoms of a dry cough. Two days later, Wenliang started having a fever and was admitted to the hospital on 14 January 2020. His parents also contracted the coronavirus and were admitted to the hospital with him. Wenliang tested negative several times until finally testing positive for the coronavirus on 30 January 2020.
+--------------------------------
+2020-01-12
+Using the genetic sequence of the new coronavirus made available to WHO, laboratories in different countries start producing specific diagnostic PCR tests.
+The Chinese government reports that there is no clear evidence that the virus passes easily from person to person.
+--------------------------------
+2020-01-13
+Thailand reports the first case outside of China, a woman who had arrived from Wuhan. Japan, Nepal, France, Australia, Malaysia, Singapore, South Korea, Vietnam, Taiwan, and South Korea report cases over the following 10 days.
+--------------------------------
+2020-01-14
+WHO tweeted that “preliminary investigations conducted by the Chinese authorities have found no clear evidence of human-to-human transmission of the novel coronavirus (2019-nCoV) identified in Wuhan, China”. On the same day, WHO’s Maria Van Kerkhove said that there had been “limited human-to-human transmission” of the coronavirus, mainly small clusters in families, adding that “it is very clear right now that we have no sustained human-to-human transmission”[3]
+--------------------------------
+2020-01-18
+The Medical Literature Guide Amedeo (www.amedeo.com) draws the attention of 50,000+ subscribers to a study from Imperial College London, Estimating the potential total number of novel Coronavirus cases in Wuhan City, China, by Imai et al. The authors estimate that “a total of 1,723 cases of 2019-nCoV in Wuhan City (95% CI: 427 – 4,471) had onset of symptoms by 12th January 2020”. Officially, only 41 cases were reported by 16th January.
+--------------------------------
+2020-01-20
+China reports three deaths and more than 200 infections. Cases are now also diagnosed outside Hubei province (Beijing, Shanghai and Shenzhen). Asian countries begin to introduce mandatory screenings at airports of all arrivals from high-risk areas of China.
+After two medical staff were infected in Guangdong, the investigation team from China’s National Health Commission confirmed for the first time that the coronavirus can be transmitted between humans. [4]
+--------------------------------
+2020-01-22
+A WHO China office field mission to Wuhan issued a statement saying that there was evidence of human-to-human transmission in Wuhan, but more investigation was needed to understand the full extent of transmission.[5]
+--------------------------------
+2020-01-23
+In a bold and unprecedented move, the Chinese government puts tens of millions of people in quarantine. Nothing comparable has ever been done in human history. Nobody knows how efficient it will be.
+All events for the Lunar New Year (starting on January 25) are cancelled.
+The WHO IHR (2005) Emergency Committee convened on 22-23 Janaury acknowledged that human-to-human transmission was occurring with a preliminary R0 estimate of 1.4-2.5 and that 25% of confirmed cases were reported to be severe. However, the Committee felt that transmission was limited and there was “no evidence” of the virus spreading at community level outside of China. Since the members could not reach a consensus, the committee decided that it was still too early to declare a Public Health Emergency of International Concern (PHEIC) and agreed to reconvene in approximately ten days’ time. [6]
+A scientific preprint from the Wuhan institute of Virology, later published in Nature, announced that a bat virus with 96% similarity had been sequenced in a Yunnan cave in 2013. The sequence is posted the next day on public databases.[7] It is confirmed that the novel coronavirus uses this same entry receptor as SARS-CoV.
+--------------------------------
+2020-01-24
+At least 830 cases have been diagnosed in nine countries: China, Japan, Thailand, South Korea, Singapore, Vietnam, Taiwan, Nepal, and the United States.
+The first confirmed evidence of human-to-human transmission outside of China was documented by the WHO in Vietnam.[8]
+France reported its first three confirmed imported cases, the first occurrences in the EU.[9]
+Zhu et al. publish their comprehensive report about the isolation of a novel coronavirus which is different from both MERS-CoV and SARS-CoV (full-text: https://doi.org/10.1056/NEJMoa2001017). They describe sensitive assays to detect viral RNA in clinical specimens.
+Huang et al. publish on The Lancet the clinical features of 41 patients (full-text: doi.org/10.1016/S0140-6736(20)30185-9). The report indicated the risk of contagious infection without forewarning signs during the incubation period and suggested a “pandemic potential” for the new virus.
+Chan et al. describe a familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission (full-text: doi.org/10.1016/S0140-6736(20)30154-9).
+--------------------------------
+2020-01-25
+The Chinese government imposes travel restrictions on more cities in Hubei. The number of people affected by the quarantine totals 56 million.
+Hong Kong declares an emergency. New Year celebrations are cancelled and links to mainland China restricted.
+--------------------------------
+2020-01-27
+In Germany, the first cluster of infections with person to person transmission from asymptomatic patients in Europe was reported. The source of infection was an individual from Shanghai visiting a company in Bavaria[10]. She developed symptoms on the way back to China. Contacts at the company were tested and transmission was confirmed to asymptomatic contacts but also to people who had no direct contact with the index patient. Authors state that “The fact that asymptomatic persons are potential sources of 2019-nCoV infection may warrant a reassessment of transmission dynamics of the current outbreak.”[11]
+--------------------------------
+2020-01-28
+WHO DG Dr. Tedros Adhanom Ghebreyesus met China President Xi Jinping in Beijing. They shared the latest information on the outbreak and reiterated their commitment to bring it under control. The WHO delegation highly appreciated the actions China has implemented in response to the outbreak, its speed in identifying the virus and openness to sharing information with WHO and other countries.[12]
+--------------------------------
+2020-01-30
+On the advice of the IHR Emergency Committee, WHO DG declared a Public Health Emergency of International Concern and advised “all countries should be prepared for containment, including active surveillance, early detection, isolation and case management, contact tracing and prevention of onward spread of 2019-nCoV infection, and to share full data with WHO.”  WHO had received reports of 83 cases in 18 countries outside China and that there had been evidence of human-to-human transmission in 3 countries.
+China reports 7,711 cases and 170 deaths. The virus has now spread to all Chinese provinces.
+Giuseppe Conte, Italy’s Prime Minister, confirms the first two COVID-19 imported cases in Italy.
+--------------------------------
+2020-01-31
+Li Wenliang publishes his experience with Wuhan police station (see 3 January) with the letter of admonition on social media. His post goes viral.
+India, the Philippines, Russia, Spain, Sweden, the United Kingdom, Australia, Canada, Japan, Singapore, the US, the UAE and Vietnam confirm their first cases.
+--------------------------------
+2020-02-02
+The first death outside China, of a Chinese man from Wuhan, is reported in the Philippines. Two days later a death in Hong Kong is reported.
+--------------------------------
+2020-02-06
+Li Wenliang, who was punished for trying to raise the alarm about coronavirus, dies. His death sparks an explosion of anger, grief and demands for freedom of speech:  https://www.theguardian.com/global-development/2020/feb/07/coronavirus-chinese-rage-death-whistleblower-doctor-li-wenliang.
+--------------------------------
+2020-02-07
+Hong Kong introduces prison sentences for anyone breaching quarantine rules.
+--------------------------------
+2020-02-08
+The French Health Minister confirmed that a cluster of 5 COVID-19 cases were detected in a ski resort in the French Alps. The index patient was a UK citizen who had traveled to Singapore on 20-23 January and then spent four days (24-28 January) in a chalet in Contamines-Montjoie, in Haute-Savoie. He tested positive upon return to England. Four contacts in the same chalet tested positive, including a 9-year old boy who was attending a local school. None of the child’s contacts in school or at home became infected.
+--------------------------------
+2020-02-10
+Amedeo launches a weekly Coronavirus literature service which would later be called Amedeo COVID-19.
+--------------------------------
+2020-02-11
+Less than three weeks after introducing mass quarantine measures in China, the number of daily reported cases starts dropping.
+The WHO announces that the new infectious disease would be called COVID-19 (Coronavirus disease 2019) and that the new virus will be called SARS-CoV-2.
+--------------------------------
+2020-02-12
+On board the Diamond Princess cruise ship docked in Yokohama, Japan, 175 people are infected with the virus. Over the following days and weeks, almost 700 people will be infected onboard.
+--------------------------------
+2020-02-13
+China changed the COVID-19 case definition to include clinical (radiological) diagnosis of patients without confirmatory test. As a result, Hubei reported 14,840 newly confirmed cases, nearly 10 times more than the previous day, while deaths more than doubled to 242. WHO indicated that for consistency it would report only the number of laboratory-confirmed cases.[13]
+--------------------------------
+2020-02-19
+Iran reports two deaths from the coronavirus.
+At the San Siro stadium in Milan, the Atalanta soccer team from Bergamo wins the Champions League match against Valencia 4 to 1 in front of 44,000 fans from Italy (2,000 from Spain). The mass transport from Bergamo to Milan and return, hours of shouting as well as the following festivities in innumerable bars have been considered by some observers as a coronavirus ‘biological bomb’.
+--------------------------------
+2020-02-20
+A patient in his 30s tested positive for SARS-CoV-2 and was admitted to the intensive care unit (ICU) in Codogno Hospital (Lodi, Lombardy, Italy). The symptomatic patient had visited the hospital the day before but was not tested as he did not meet the suspected case epidemiological criteria (no link with China). His wife, 5 hospital staff, 3 patients and several contacts of the index patients also tested positive to the COVID-19. Over the next 24 hours, the number of reported cases would increase to 36, many without links to the Codogno patient or previously identified positive cases. A first COVID-19 death in a 78-year-old man was also reported. It is the beginning of the Italian epidemic. jamanetwork.com/journals/jama/fullarticle/2763188
+--------------------------------
+2020-02-22
+South Korea reports a sudden spike of 20 new cases of coronavirus infection, raising concerns about a potential “super spreader” who has already infected 14 people in a church in the south-eastern city of Daegu.
+--------------------------------
+2020-02-23
+Italy confirms 73 new cases, bringing the total to 152, and a third death, making Italy the third country in the world by number of cases, after China and South Korea. A “red zone” area around Codogno is created, isolating 11 municipal areas.  Schools are closed.
+Venice Carnival is brought to an early close and sports events are suspended in the most-hit Italian regions.
+--------------------------------
+2020-02-24
+France, Bahrain, Iraq, Kuwait, Afghanistan and Oman report their first cases.
+--------------------------------
+2020-02-25
+A report of a joint WHO mission of 25 international and Chinese experts is presented to the public. The mission travelled to several different Chinese provinces. The most important findings are that the Chinese epidemic peaked and plateaued between the 23rd of January and the 2nd of February and declined steadily thereafter (Table 1).
+This was the first sign that the aggressive use of quarantine ordered by the Chinese government was the right thing to do. Unfortunately, European countries which did not experience the SARS epidemic in 2003, would lose precious time before following the Chinese example.
+Figure 1. COVID-19 cases in China, January/February 2020. Epidemic curves by symptom onset and date of report on 20 February 2020 for laboratory confirmed COVID-19 cases for all of China. Modified from Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19). 16-24 February 2020. https://www.who.int/publications-detail/report-of-the-who-china-joint-mission-on-coronavirus-disease-2019-(covid-19)
+--------------------------------
+2020-02-26
+A president, fearing for his chances to be re-elected, downplays the threat from the coronavirus pandemic, twittering: “Low Ratings Fake News…are doing everything possible to make the Caronavirus [sic] look as bad as possible, including panicking markets, if possible.”
+Two days later, the same individual invokes magic: “It’s going to disappear. One day, it’s like a miracle, it will disappear.”
+P.S. On 28 March, The Guardian would ask why this person failed the biggest test of his life.
+--------------------------------
+2020-02-28
+A quick look at European cases diagnosed outside of Italy from February 24-27 reveals that 31 of 54 people (57%) had recently travelled to Northern Italy. Epidemiologists immediately realize that an unusual situation is building up.
+--------------------------------
+2020-03-07
+Official data show that China’s exports plunged 17.2 percent in the first two months of the year.
+--------------------------------
+2020-03-08
+The Italian government led by Prime Minister Giuseppe Conte, deserves credit for instauring the first European lockdown, just two and a half weeks after the first autoctone Italian COVID-19 case was detected. First, strict quarantine measures are imposed on 16 million people in the state of Lombardy and 14 other areas in the north. Two days later, Conte would extend these to the entire country of 60 million people, declaring the Italian territory a “security zone”. All people are told to stay at home unless they need to go out for “valid work or family reasons”.  Schools are closed.
+--------------------------------
+2020-03-09
+A president on Twitter: “So last year 37,000 Americans died from the common Flu. It averages between 27,000 and 70,000 per year. Nothing is shut down, life & the economy go on. At this moment there are 546 confirmed cases of CoronaVirus, with 22 deaths. Think about that!” (The Guardian)
+Iran releases 70,000 prisoners because of the coronavirus outbreak in the country.
+--------------------------------
+2020-03-10
+Xi Jinping tours the city of Wuhan and claims a provisional victory in the battle against COVID-19. The last two of 16 temporary hospitals in the city are shut down.
+--------------------------------
+2020-03-11
+With more than 118,000 COVID-19 cases in 114 countries and 4,291 deaths, WHO DG declares the coronavirus outbreak a pandemic.
+All schools in and around Madrid, from kindergartens to universities, are closed for two weeks.
+--------------------------------
+2020-03-12
+Italy closes all shops except grocery stores and pharmacies.
+In Spain, 70,000 people in Igualada (Barcelona region) and three other municipalities are quarantined for at least 14 days. This is the first time Spain adopts measures of isolation for entire municipalities.
+Emmanuel Macron, the French president, announces the closure of nurseries, schools and universities from Monday, 16 March. He declares: “One principle guides us to define our actions, it guides us from the start to anticipate this crisis and then to manage it for several weeks, and it must continue to do so: it is confidence in science. It is to listen to those who know.” Some of his colleagues should have listened, too.
+--------------------------------
+2020-03-13
+The prime minister of an ex-EU country introduces the notion of ‘herd immunity’ as a solution to repeated future episodes of coronavirus epidemics. The shock treatment: accepting that 60% of the population will contract the virus, thus developing a collective immunity and avoiding future coronavirus epidemics. The figures are dire. With a little over 66 million inhabitants, some 40 million people would be infected, 4 to 6 million would become seriously ill, and 2 million would require intensive care. Around 400,000 Britons would die. The prime minister projects that “many more families are going to lose loved ones before their time.”
+P.S. Five weeks later, The Guardian would still ask, “How did Britain get its coronavirus response so wrong?”
+--------------------------------
+2020-03-14
+The Spanish government puts the whole country into lockdown, telling all people to stay home. Exceptions include buying food or medical supplies, going to hospital, going to work or other emergencies.
+The French government announces the closure of all “non-essential” public places (bars, restaurants, cafes, cinemas, nightclubs) after midnight. Only food stores, pharmacies, banks, tobacconists, and petrol stations may remain open.
+--------------------------------
+2020-03-15
+France calls 47 million voters to the poll. Both government and opposition leaders seem to be in favor of maintaining the municipal elections. Is this a textbook example of unacceptable interference of party politics with the sound management of a deadly epidemic? Future historians will have to investigate.
+--------------------------------
+2020-03-16
+Ferguson et al. publish a new modelling study on likely UK and US outcomes during the COVID-19 pandemic. In the (unlikely) absence of any control measures or spontaneous changes in individual behaviour, the authors expect a peak in mortality (daily deaths) to occur after approximately 3 months. This would result in 81% of the US population, about 264 million people, contracting the disease. Of those, 2.2 million would die, including 4% to 8% of Americans over age 70. More important, by the second week in April, the demand for critical care beds would be 30 times greater than supply.
+The model then analyzes two approaches: mitigation and supression. In the mitigation scenario, SARS-CoV-2 continues to spread at a slow rate, avoiding a breakdown of hospital systems. In the suppression scenario, extreme social distancing measures and home quarantines would stop the spread of the virus. The study also offers an outlook at the time when strict “Stay at home” measures are lifted. The perspective is grim: the epidemic would bounce back.
+France imposes strict confinement measures.
+--------------------------------
+2020-03-17
+Seven million people across the San Francisco Bay Area are instructed to “shelter in place” and are prohibited from leaving their homes except for “essential activities” (purchasing food, medicine, and other necessities). Most businesses are closed. The exceptions: grocery stores, pharmacies, restaurants (for takeout and delivery only), hospitals, gas stations, banks.
+--------------------------------
+2020-03-19
+For the first time since the beginning of the coronavirus outbreak, there have been no new cases in Wuhan and in the Hubei province.
+Californian Governor Gavin Newsom orders the entire population of California (40 million people) to “stay at home”. Residents can only leave their homes to meet basic needs like buying food, going to the pharmacy or to the doctor, visiting relatives, exercising.
+--------------------------------
+2020-03-20
+Italy reports 6,000 new cases and 627 deaths in 24 hours.
+In Spain, the confinement due to the coronavirus reduces crime by 50%.
+China reports no new local coronavirus cases for three consecutive days. Restrictions are eased, normal life resumes. The entire world now looks at China. Will the virus spread again?
+The state of New York, now the center of the U.S. epidemic (population: 20 million), declares a general lockdown. Only essential businesses (grocers, restaurants with takeout or delivery, pharmacies, and laundromats) will remain open. Liquor stores? Essential business!
+--------------------------------
+2020-03-22
+Byung-Chul Han publishes La emergencia viral y el mundo de mañana (El País): “Asian countries are managing this crisis better than the West. While there you work with data and masks, here you react late and borders are opened.”
+--------------------------------
+2020-03-23
+Finally, too late for many observers, the UK puts in place containment measures. They are less strict than those in Italy, Spain and France.
+German Chancellor Angela Merkel self-quarantines after coming into contact with a person who tested positive for coronavirus.
+--------------------------------
+2020-03-24
+Off all reported cases in Spain, 12% are among health care workers.
+The Tokyo Olympics are postponed until 2021.
+India orders a nationwide lockdown. Globally, three billion people are now in lockdown.
+--------------------------------
+2020-03-25
+After weeks of stringent containment measures, Chinese authorities lift travel restrictions in Hubei province. In order to travel, residents will need the “Green Code” provided by a monitoring system that uses the AliPay app.
+A 16-year-old girl dies in the south of Paris from COVID-19. The girl had no previous illnesses.
+--------------------------------
+2020-03-26
+America First: the US is now the country with most known coronavirus cases in the world.
+For fear of reactivating the epidemic, China bans most foreigners from entering the country.
+--------------------------------
+2020-03-27
+The Prime Minister and the Ministre of Health of an ex-EU country tests positive for coronavirus.
+The Lancet publishes COVID-19 and the NHS—”a national scandal”. 
+A paper by McMichael et al. describes a 33% case fatality rate for SARS-CoV-2 infected residents of a long-term care facility in King County, Washington, US.
+--------------------------------
+2020-03-29
+The Guardian and the Boston Globe ask who might have blood on their hands in the current pandemic. The evolution of the US epidemic is being described as the worst intelligence failure in US history.
+--------------------------------
+2020-03-30
+Flaxman S et al. from the Imperial College COVID-19 Response Team publish new data on the possibly true number of infected people in 11 European countries. Their model suggests that as of 28 March, in Italy and Spain, 5.9 million and 7 million people could have been infected, respectively (see Table online). Germany, Austria, Denmark and Norway would have the lowest infection rates (proportion of the population infected). These data suggest that the mortality of COVID-19 infection in Italy could be in the range of 0.4% (0.16%-1.2%).
+Moscow and Lagos (21 million inhabitants) go into lockdown.
+The COVID-19 crisis causes some East European political leaders to consider legislation giving them extraordinary powers. In one case, a law was passed extending a state of emergency indefinitely.
+SARS-CoV-2 is spreading aboard the aircraft carrier USS Theodore Roosevelt. The ship’s commanding officer, Captain Brett Crozier, sends an email to three admirals in his chain of command, recommending that he be given permission to evacuate all non-essential sailors, to quarantine known COVID-19 cases, and sanitize the ship. “We are not at war. Sailors do not need to die,” writes Crozier in his four-page memo. The letter leaks to the media and generates several headlines. Three days later, 2 April, Captain Crozier is sacked.
+Later, testing of 94% of the crew of roughly 4,800 people would reveal around 600 sailors infected, a majority of whom, around 350, were asymptomatic.
+--------------------------------
+2020-04-01
+The United Nations chief warns that the coronavirus pandemic presents the world’s “worst crisis” since World War II.
+--------------------------------
+2020-04-02
+Worldwide more than one million cases are reported. The true number is probably much higher (see the Flaxman paper on 30 March).
+European newspapers run articles about why Germany has so few deaths from COVID-19.
+--------------------------------
+2020-04-03
+Some economists warn that unemployment could surpass the levels reached during the Great Depression in the 1930s. The good news: almost all governments rate saving tens or hundreds of thousands of lives higher than avoiding a massive economic recession. Has humanity become more human?
+Le Monde, the most influential French newspaper, points to a more mundane side effect of the epidemic. As hairdressers are forbidden to work, colors and cuts will degrade. The newspaper predicts that “after two months, 90% of blondes will have disappeared from the face of the Earth”.
+--------------------------------
+2020-04-04
+In Europe, there are signs of hope. In Italy, the number of people treated in intensive care units decreases for the first time since the beginning of the epidemic.
+In France, 6,800 patients are treated in intensive care units. More than 500 of these have been evacuated to hospitals from epidemic hotspots like Alsace and the Greater Paris area to regions with fewer COVID-19 cases. Specially adapted TGV high-speed trains and aircraft have been employed.
+Figure 2. Patients treated in intensive care units in Italy. For the first time since the beginning of the epidemic, the number decreases on 4 April.
+Lombardy decides that as of Sunday 5 April, people must wear masks or scarves. Supermarkets must provide gloves and hydroalcoholic gel to their customers.
+An Italian politician, less penetrable to scientific reasoning on a par with some of his colleagues in the US and Brazil, asks for churches to be open on Easter (12 April), declaring that “science alone is not enough: the good God is also needed”. Heureux les simples d’esprit, as the French would say.
+--------------------------------
+2020-04-05
+The US surgeon general warns the country that it will face a “Pearl Harbor moment“ in the next week.
+US is the new epicenter of the COVID-19 epidemic. By the time of this writing (5 April), more than 300,000 cases and almost 10,000 deaths were reported. Almost half were reported from New York and New Jersey.
+--------------------------------
+2020-04-07
+Air quality improves over Italy, the UK and Germany, with falling levels of carbon dioxide and nitrogen dioxide. Will a retrospective analysis of the current lockdown reveal fewer cases of asthma, heart attacks and lung disease?
+--------------------------------
+2020-04-08
+Japan declares a state of emergency, Singapore orders a partial lockdown.
+In Wuhan people are allowed to travel for the first time since the city was sealed off 76 days ago.
+The Guardian publishes a well-documented timeline: “Coronavirus: 100 days that changed the world.”
+--------------------------------
+2020-04-09
+EU finance ministers agree to a common emergency plan to limit the impact of the coronavirus pandemic on the European economy. The Eurogroup reaches a deal on a response plan worth more than €500 billion for countries hit hardest by the epidemic.
+Passenger air travel has decreased by up to 95%. How many of the 700 airlines will survive the next few months? Will the current interruption of global air travel shape our future travel behaviors?
+The epidemic is devastating the US economy. More than 16 million Americans have submitted unemployment claims in the past three weeks.
+--------------------------------
+2020-04-10
+COVID-19 treatment for one dollar a day? British, American and Australian researchers estimate that it could indeed cost only between 1 and 29 dollars per treatment and per patient.
+Message from your mobile phone: “You have been in contact with someone positive for coronavirus.” Google and Apple announce that they are building a coronavirus tracking system into iOS and Android. The joint effort would enable the use of Bluetooth technology to establish a voluntary contact-tracing network. Official apps from public health authorities would get extensive access to data kept on phones that have been in close proximity with each other (George Orwell is turning over in his grave). If users report that they’ve been diagnosed with COVID-19, the system would alert people if they were in close contact with the infected person.
+Spain discovers COVID Reference. Within 24 hours, more than 15,000 people download the PDF of the Spanish edition. The only explanation: a huge media platform displayed the link of our book. Does anyone know who did it?
+Figure 3. Google Analytics data for www.CovidReference.com on 10 April. At one moment, more than 500 people, mostly from Spain, were visiting the website simultaneously.
+--------------------------------
+2020-04-11
+More than 400 of 700 long-term care facilities (EHPAD in French, Etablissement d’Hébergement pour Personnes Agées Dépendantes) in the greater Paris region (pop. – 10 million) have COVID-19 cases.
+In Italy, 110 doctors and about 30 other hospital workers have died from COVID-19, half of them nurses.
+--------------------------------
+2020-04-12
+Easter 2020. Italy reports 361 new deaths, the lowest number in 25 days while Spain reports 603 deaths, down more than 30% from a high 10 days before.
+Figure 4. Daily number of COVID-19 deaths in Italy (red) and Spain (blue).
+The United Kingdom records its highest daily death toll of almost 1,000. The number of reported COVID-19-linked fatalities now exceeds 10,000. As in many other countries, the true numbers may be slightly higher due to underreporting of people dying in care homes.
+The number of COVID-19-related deaths in the United States passes 22,000, while the number of cases tops 500,000. In New York there are signs that the pandemic could be nearing its peak.
+--------------------------------
+2020-04-13
+The COVID-19 pandemic exposes bad governance, not only in Brazil. The French newspaper Le Monde reveals the ingredients: denial of reality, search for a scapegoat, omnipresence in the media, eviction of discordant voices, political approach, isolationism and short-term vision in the face of the greatest health challenge in recent decades. The culprit?
+Emmanuel Macron announces announces a month-long extension to France’s lockdown. Only on Monday, May 11, nurseries, primary and high schools would gradually reopen, but not higher education. Cafés, restaurants, hotels, cinemas and other leisure activities would continue to remain closed after May 11.
+--------------------------------
+2020-04-14
+Austria is the first European country to relax lockdown measures.  It opens up car and bicycle workshops, car washes, shops for building materials, iron and wood, DIY and garden centers (regardless of size) as well as smaller dealers with a customer area under 400 square meters. These shops must ensure that there is only one customer per 20 square meters. In Vienna alone, 4,600 shops are allowed to open today. Opening times are limited to 7.40 a.m. to 7 p.m.  The roadmap for the coming weeks and months:
+1 May: All stores, shopping malls and hairdressers reopen (see also the April 3 entry, page 354).
+15 May: Other services such as restaurants and hotels remain closed at least until mid-May.
+15 May or later: Possible re-opening of classes in schools.
+July: possible – but improbable – organization of events of all sorts (sport, music, theater, cinema etc.).
+There is a general obligation to wear a mask when shopping and on public transport.
+The International Monetary Fund (IMF) forecasts a contraction of 3% of the planet’s GDP in 2020. The possibility of an even more brutal fall in 2021 is not excluded. The possibly worst economic downturn since the Great Depression in 1929 will not spare any continent. In a recession like no other in peacetime for nearly a century, the countries of the eurozone, the United Kingdom and the United States might see a contraction in activity of between 5.9% and 7.5%. China’s economy is expected to grow by about 1%.
+US: The CDC (Centers for Disease Control and Prevention) reports that more than 9,000 health care workers contracted COVID-19 as and at least 27 died. The median age was 42 years, and 73% were female. Deaths most frequently occurred in HCP aged ≥ 65 years.
+--------------------------------
+2020-04-15
+Philip Anfinrud and Valentyn Stadnytsky from the National Institutes of Health, Bethesda, report a laser light-scattering experiment in which speech-generated droplets and their trajectories were visualized. They find that when a test person says, “stay healthy,” numerous droplets ranging from 20 to 500 µm are generated. When the same phrase is uttered three times through a slightly damp washcloth over the speaker’s mouth, the   flash (droplet) count remains close to the background level. The video supports the recommendation of wearing face masks in public. The authors also found that the number of flashes (droplets) increased with the loudness of speech. The new message for billions of people caught in the COVID-19 epidemic: lower your voice!
+--------------------------------
+2020-04-17
+Luiz Inácio Lula da Silva, the former Brazilian president says that the current president is leading Brazil to “the slaughterhouse” with his irresponsible handling of coronavirus. In an interview with The Guardian, Lula says that Brazil’s “troglodyte” leader risks repeating the devastating scenes playing out in Ecuador where families have to dump their loved ones’ corpses in the streets.
+On the French aircraft carrier Charles-de-Gaulle, a massive epidemic is. Among the 1760 sailors, 1,046 (59%) are positive for SARS-CoV-2, 500 (28%) present symptoms, 24 (1.3%) sailors are hospitalized, 8 on oxygen therapy and one in intensive care.
+--------------------------------
+2020-04-18
+Chancellor Angela Merkel makes a television speech, her first in over 14 years in office. She describes the coronavirus crisis “as the greatest challenge since the Second World War” and exhorts the Germans: “It is serious. Take it seriously.”
+Care England, Britain’s largest representative body for care homes, suggests that up to 7,500 residents may have died of COVID-19. This would be higher than the 1,400 deaths estimated by the government.
+In Catalunya alone, some 6,615 hospital professionals and another 5,934 in old age care homes are also suspected of having or been diagnosed with COVID-19.
+--------------------------------
+2020-04-19
+Figure 5. Daily number of COVID-19 deaths in Germany (green) and the United Kingdom (black).
+Air traffic in Europe has plummeted more than 95% as nicely shown by this YouTube video by The Guardian: https://www.youtube.com/watch?v=lOVP2o3c4Gw
+--------------------------------
+2020-04-20
+For the first time in history, the West Texas Intermediate (WTI), the benchmark price for US oil, drops below $0. On certain specific contracts, it plunged down to minus 37 US dollars (-34 euros). After nearly two months of continuous collapse of the oil market, this paradoxical situation is the result of the COVID-19 pandemic which caused demand to fall by 30%. As oil wells continue to produce, there is no place to store the oil and investors are ready to pay to get rid of it.
+Germany’s Oktoberfest is cancelled. The iconic beer festival, colloquially known as Die Wiesn or “the meadow”, attracts around 6 million visitors from around the world.  It runs for more than two weeks (September/October) in packed tents with long wooden tables, where people celebrate traditional food, dancing, beer and clothing. The loss for the city of Munich is estimated to be around one billion euros.
+--------------------------------
+2020-04-21
+The Spanish newspaper El País publishes an intelligible overview of the battle between SARS-CoV-2 and the human body: “Así es la lucha entre el sistema inmune y el coronavirus.”¡Fantástico!
+Cancer Research UK reports that every week, 2,300 people with cancer symptoms are no longer examined. Screening examinations for breast and uterine cancer of over 200,000 women per week have been cancelled. According to The British Heart Foundation, 50 percent fewer people suspected of having a heart attack attended hospital emergency rooms in March. A 50% drop would be “equivalent to approximately 5000 of the expected people every month, or more than 1100 people every week, with possible heart attack symptoms not being seen in emergency departments.” Will we discover a hidden epidemic of COVID-19-related morbidity and mortality with millions of people dying not from coronavirus, but from other, actually treatable diseases?
+--------------------------------
+2020-04-23
+Pandemic hilarity, as a president known for his poor science record stammers speculations about “injecting” “disinfectant” to cure COVID-19.
+--------------------------------
+2020-04-26
+The city of Wuhan announces that all remaining COVID-19 cases have been discharged from the hospitals.
+--------------------------------
+2020-04-27
+Are genes determining coronavirus symptoms? After studying 2,633 identical and fraternal twins who were diagnosed with COVID-19, a group from King’s College London reports that COVID-19 symptoms appear to be 50% genetic (fever, diarrhea, delirium and loss of taste and smell)[14]. It is as yet unclear whether and to what extent reported deaths of identical twins can be attributed to genetic factors.
+--------------------------------
+2020-05-01
+A new SARS-CoV-2 test could be able to identify virus carriers before they are infectious, according to a report by The Guardian. The blood-based test would be able to detect the virus’s presence as early as 24 hours after infection – before people show symptoms and several days before a carrier is considered capable of spreading it to other people.
+--------------------------------
+2020-05-03
+Roche gets US Food and Drug Administration emergency use approval for its antibody test, Elecsys Anti-SARS-CoV-2, which has a specificity rate of about 99.8% and a sensitivity rate of 100%.
+--------------------------------
+2020-05-04
+Italy is cautiously easing lockdown measures. People can go jogging but may not go to the beach; they may surf but now swim; and they can visit 6th grade relatives, but not friends, lovers or mistresses.
+A French hospital that retested old samples from pneumonia patients discovers that it treated a man with the coronavirus as early as 27 December, a month before the French government confirmed its first cases.
+Researchers from Bonn University, Germany, report a sero-epidemiological study of 919 people from Gangelt, a small German town which was exposed to a super-spreading event (carnival festivities). 15.5% were infected, with an estimated infection fatality rate of 0.36%. 22% of infected individuals were asymptomatic.
+--------------------------------
+2020-05-05
+Neil Ferguson, epidemiologist at the Imperial College, resigns his post as member of the British government’s Scientific Advisory Group for Emergiences (SAGE) over an “error of judgement”. A newspaper had reported that he did not respect the rules of confinement (which he himself had contributed to establishing!) by receiving at least twice a 38-year-old woman at his home.
+Anthony Fauci, the director of the United States National Institute of Allergy and Infectious Diseases, says that there is no scientific evidence to back the theory that the coronavirus was made in a Chinese laboratory or leaked from a laboratory after being brought in from the wild (CGTN).
+--------------------------------
+2020-05-06
+The official COVID-19 death toll in the UK exceeds 30,000.
+--------------------------------
+2020-05-07
+According to data released by the US Department of Labor, more than 33 million Americans have filed for initial jobless claims. This corresponds roughly to 21% of the March labor force.
+Only 15 countries in the world have not officially reported a case of COVID-19 to WHO, namely: North Korea, Turkmenistan, Kiribati, Marshall Islands, Micronesia, Samoa, Salomon Island, Tonga, Tuvalu, Vanuatu, Cook Island, Nauru, Niue, Palau and Lesotho. (We know North Korea is cheating, and Turkmenistan and Lesotho cannot deny for long… It’s a true pandemic!)
+According to figures by the Office of National Statistics, black people are more than four times more likely to die from COVID-19 than white people.
+--------------------------------
+2020-05-08
+After pipedreams (German: Hirngespinste; French: élucubrations; Italian: visioni; Spanish: fantasías) about hydroxychloroqine and injecting desinfectants, today is the day where COVID-19 will “go away without vaccine”. The sad developments of the coronavirus pandemic have now accumulated sufficient evidence that the individual doesn’t believe himself what he is saying. The carefully timed and well-orchestrated ungrammatical utterings just obey one supreme life mission: continue staying in the news. Alas, there is an even more tragic aspect to the drama: Why on Earth do the world’s media insist on talking about this individual? Why can’t we read the news without seeing his face every single day? Why couldn’t we simply totschweigen him? (Totschweigen is a superbly descriptive German verb: 1. tot dead; 2. schweigen to be silent; 3. totschweigen make someone dead silent – English: to hush up; French: passer sous silence; Italian: fare come se non esistesse; Portuguese: não falar em alguém.)
+Today, we make a funereal promise: we’ll never talk about the individual again, not even on the day he dies.
+--------------------------------
+2020-05-10
+Italians are looking on aghast at the UK’s coronavirus response, says The Guardian. Is it really no accident that Britain and America are the world’s biggest coronavirus losers?
+Everything you always wanted to know about false negatives and false positives* (*but were afraid to ask) is now summarized in 10 steps to understand COVID-19 antibodies. The colors will help you memorize true and false negatives and positives.
+Spain’s best newspaper El País publishes ‘ccu ccg ccg gca – The 12 letters that changed the world.’ (If you read Spanish, take a look.)
+--------------------------------
+2020-05-11
+France eases lockdown restrictions among a sense of incertainty. The newspaper Le Monde reports that according to official figures 8,674 new positive tests for SARS-CoV-2 were registered between May 1 and 9. Epidemiologist Daniel Lévy-Bruhl, head of the respiratory infections unit of Santé Publique France (Public Health France) estimates that the real figures are probably twice or three times as high (3,000 to 4,000 new infections each day) – despite barrier gestures, social distancing and general confinement.
+--------------------------------
+2020-05-12
+The MMWR publish a report about a high SARS-CoV-2 attack rate following exposure at a choir practice.
+--------------------------------
+2020-05-13
+There is evidence that China is censoring COVID Reference. Google Analytics data of two dozen websites, both medical (Amedeo, Free Medical Journals, FreeBooks4Doctors) and non-medical (TheWordBrain, Ear2Memory, GigaSardinian, GigaMartinique, SardoXSardi, Polish Yiddish and ItalianWithElisa, among others) show that by number of visitors, China was always among the Top 10 countries, generating between 3.3% and 14.8% of website traffic (see https://covidreference.com/censorship).
+Not so with COVID Reference. Six weeks after the launch of COVID Reference, China is 27th, after Paraguay, accounting for 0.39% of global traffic. Is someone standing on the data line between COVID Reference and China (Figure 6)?
+Figure 6. Google Analytics data for www.CovidReference.com on 13 May. Six weeks after the launch of COVID Reference, China is 27th, after Paraguay and right before the Netherlands and Russia.
+--------------------------------
+2020-05-15
+In a memorable blog entry for the British Medical Journal, Paul Garner, professor of infectious diseases at Liverpool School of Tropical Medicine, discusses his COVID-19 experience as having “been through a roller coaster of ill health, extreme emotions, and utter exhaustion”.
+A video experiment using black light and a fluorescent substance demonstrates how quickly germs can be spread in environments such as restaurant buffets and cruise ships: www.youtube.com/watch?v=kGQEuuv9R6E.
+--------------------------------
+2020-05-16
+A new highly transmissible and potentially deadly virus is detected in Germany: SADS, Severe Acute Dementia Syndrome. The new syndrome manifests as an irrepressible desire to ignore the danger of COVID-19. In several German cities, an improbable alliance takes to the streets – left- and right-wing extremists, antisemites, conspiracy theorists and anti-vaxxers –, claiming the right to live and to die without social distancing and face masks. The German Government immediately informs WHO.
+--------------------------------
+2020-05-18
+Merkel and Macron announce a 500,000 million euro aid plan for the reconstruction of Europe (El País).
+Moderna announces that its experimental vaccine mRNA-1273 has generated antibodies in eight healthy volunteers ages 18 to 55. The levels of neutralizing antibodies matched or exceeded the levels found in patients who had recovered from SARS-CoV-2 infection (The Guardian).
+--------------------------------
+2020-05-20
+After an outbreak of coronavirus, Chinese authorities seal off the city of Shulan, a city of 700,000 close to Russian border, imposing measures similar to those used in Wuhan (The Guardian).
+Google and Apple release their Exposure Notification System to notify users of coronavirus exposure: https://www.google.com/covid19/exposurenotifications.
+We discover a website which shows where infected people in Hong Kong are at all times: https://chp-dashboard.geodata.gov.hk/covid-19/en.html (Figure 7). There is no doubt that the tighter you control the infected, the less restriction you have to impose on the uninfected. In Europe, strict measures such as those adopted in Hong Kong and South Korea are currently not compatible with existing legislation about privacy.
+Figure 7. Screenshot of the “Latest Situation of Coronavirus Disease (COVID-19) in Hong Kong”, https://chp-dashboard.geodata.gov.hk/covid-19/en.html.
+--------------------------------
+2020-05-21
+The Centers for Disease Control and Prevention (CDC) informs that rats rely on the food and waste generated by restaurants and other commercial establishments, the closures of which have led to food shortage among rodents, especially in dense commercial areas. CDC warns of unusual or aggressive rodent behavior.
+Will SARS-CoV-2 seal the fate of the Airbus A380? Air France chooses to end the operations of the aircraft, judged to be too expensive, too polluting and not profitable enough (Le Monde).
+--------------------------------
+2020-05-22
+Zhu et al. publish Safety, Tolerability, and Immunogenicity of a Recombinant Adenovirus type-5 Vectored COVID-19 Vaccine.
+Fafi-Kremer 2020 et al. pre-publish Serologic responses to SARS-CoV-2 infection among hospital staff with mild disease in eastern France, reporting that neutralizing antibodies against SARS-CoV-2 were detected in virtually all hospital staff (n=160) sampled from 13 days after the onset of COVID-19 symptoms (see also Le Monde).
+--------------------------------
+2020-05-23
+In Lower Saxony, Germany, 50 people are in quarantine after an outbreak in a restaurant (Der Spiegel).
+In Frankfurt, Germany, authorities report more than 40 people infected with SARS-CoV-2 after a religious service (Der Spiegel).
+--------------------------------
+2020-05-27
+Colombian designers prepare cardboard hospital beds that double as coffins (The Guardian).
+Andrzej Krauze publishes a cartoon on the fallout from the COVID-19 pandemic.
+--------------------------------
+2020-05-31
+More than 50 million people across the US could go hungry without help from food banks or other aid (Feeding America).
+--------------------------------
+2020-06-03
+In the hope of saving its tourist industry, Italy reopens its borders.
+--------------------------------
+2020-06-04
+The Lancet makes one of the biggest retractions in modern history (The Guardian).
+--------------------------------
+2020-06-05
+The chief investigators of the RECOVERY trial report that there is no clinical benefit from use of hydroxychloroquine in hospitalised patients with COVID-19.
+--------------------------------
+2020-06-06
+The Guardian reports that nearly 600 US health workers have died of COVID-19.
+--------------------------------
+2020-06-07
+Three super-spreading events in an office, a restaurant and a bus show how easily SARS-CoV-2 can be spread over distances of more than 1 meter. The feature by El País is worth taking a look, even if you don’t understand Spanish: https://elpais.com/ciencia/2020-06-06/radiografia-de-tres-brotes-asi-se-contagiaron-y-asi-podemos-evitarlo.html.
+--------------------------------
