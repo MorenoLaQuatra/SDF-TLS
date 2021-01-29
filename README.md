@@ -2,7 +2,7 @@
 Data collection and resulting timelines for the paper Summarize Dates First : a paradigm change in timeline summarization (currently under review).
 
 ## Code
-The complete code for the Date Selection methodology will be updated after the paper acceptance/conference presentation.
+The complete code both for date summarization and selection will be updated after the paper acceptance/conference presentation.
 
 ## Dataset Sars-Cov-2
 The data collection proposed in the paper could be easily reconstructed by using:
