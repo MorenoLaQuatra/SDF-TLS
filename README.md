@@ -1,5 +1,5 @@
 # SDF-TLS
-Data collection and resulting timelines for the paper Summarize Dates First : a paradigm change in timeline summarization (currently under review).
+Data collection and resulting timelines for the paper Summarize Dates First : a paradigm change in timeline summarization. Accepted as full paper for SIGIR 2021 (citation will be added soon).
 
 ## Code
 The complete code both for date summarization and selection will be updated after the paper acceptance/conference presentation.
