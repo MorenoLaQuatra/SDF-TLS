@@ -1,5 +1,11 @@
 # SDF-TLS
-Data collection and resulting timelines for the paper Summarize Dates First : a paradigm change in timeline summarization. Accepted as full paper for SIGIR 2021 (citation will be added soon).
+Data collection and resulting timelines for the paper 
+
+Summarize Dates First: A Paradigm Shift in Timeline Summarization.
+
+Moreno La Quatra, Luca Cagliero, Elena Baralis, Alberto Messina, and Maurizio Montagnuolo. 2021. Summarize Dates First: A Paradigm Shift in Timeline Summarization. In Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 21). Association for Computing Machinery, New York, NY, USA, 418–427. DOI:https://doi.org/10.1145/3404835.3462954 
+
+Access through ACM website: https://doi.org/10.1145/3404835.3462954
 
 ## Code
 The complete code both for date summarization and selection will be updated after the paper acceptance/conference presentation.
